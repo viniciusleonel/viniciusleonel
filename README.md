@@ -15,6 +15,8 @@
 <a href="viniciuslps.cms@gmail.com" target="blank"><img alt="Gmail Badge" src="https://img.shields.io/badge/-viniciuslps.cms@gmail.com-DC143C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:muttiyuri@gmail.com"/></a>
 </p>
 
+![snake gif](https://github.com/viniciusleonel/viniciusleonel/blob/output/github-contribution-grid-snake.svg)
+
 <!--
 **viniciusleonel/viniciusleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
