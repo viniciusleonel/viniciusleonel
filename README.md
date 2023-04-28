@@ -3,11 +3,11 @@
 ## I'm Vinícius Leonel and I'm currently studying Systems Development & Analysis. 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusleonel&show_icons=true&theme=tokyonight"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusleonel&show_icons=true&theme=radical"> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusleonel&layout=compact&theme=tokyonight"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusleonel&layout=compact&theme=radical"> 
 </p>
 
 <p align="center">
