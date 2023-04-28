@@ -3,11 +3,11 @@
 ## I'm Vinícius Leonel and I'm currently studying Systems Development & Analysis. 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusleonel&show_icons=true&theme=radical"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusleonel&show_icons=true&theme=tokyonight"> 
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusleonel&layout=compact&theme=radical"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusleonel&layout=compact&theme=tokyonight"> 
 </p>
 
 <p align="center">
@@ -17,17 +17,16 @@
   
 <picture>
   <source
-    media="(prefers-color-scheme: dark)"
-    srcset="
+    media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg"
       https://raw.githubusercontent.com/viniciusleonel/snk/output/github-contribution-grid-snake-dark.svg
     "
   />
-  
+     
   <img
     alt="github contribution grid snake animation"
     src="https://raw.githubusercontent.com/viniciusleonel/snk/output/github-contribution-grid-snake.svg"
   />
-</picture>  
+</picture>
 
 <!--
 **viniciusleonel/viniciusleonel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
