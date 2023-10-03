@@ -12,6 +12,7 @@ Portfolio: https://www.gitshowcase.com/viniciusleonel
 Web development & Programming Skills:
 - HTML 5, CSS 3, JavaScript, Bootstrap
 - Python
+- Angular, TypeScript
 - Java
 
 
