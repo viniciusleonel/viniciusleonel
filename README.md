@@ -7,6 +7,7 @@ Living in São Paulo and looking for an opportunity to further develop my skills
 Bilingual (Portuguese and English)
 
 Portfolio: https://www.gitshowcase.com/viniciusleonel
+
 LinkedIn: https://www.linkedin.com/in/viniciuslps/
 
 Web development & Programming Skills:
