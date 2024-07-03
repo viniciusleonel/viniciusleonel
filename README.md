@@ -2,8 +2,8 @@
 
 ## I'm Vinícius Leonel and I'm currently studying Java, OOP, Spring Boot and Angular. 
 
-Currently studying System Development and Analysis at FIAP + Alura.
-Living in São Paulo and looking for an opportunity to further develop my skills.
+Currently in the final year of the System Development and Analysis course at FIAP.
+Java backend developer using Spring to build RESTful APIs, with knowledge in frontend technologies such as Next.js, TypeScript, and React.
 Bilingual (Portuguese and English)
 
 LinkedIn: https://www.linkedin.com/in/viniciuslps/
@@ -13,9 +13,9 @@ Web development & Programming Skills:
 - Nodejs, Nextjs, TypeScript, Angular, React
 - Java, Spring Boot, RestApi, SQL, MySQL, PostgreSQL
 
-<p align="center">
+<!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusleonel&layout=compact&theme=radical"> 
-</p>
+</p> -->
 
 <p align="center">
   Contact Details: +55 11 99331-0776 
@@ -28,9 +28,9 @@ Web development & Programming Skills:
   </a>
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=viniciusleonel&show_icons=true&theme=radical"> 
-</p>
+</p> -->
 
-<!--outro tema favorito = tokyonight
+<!--outro tema favorito = tokyonight -->
 
