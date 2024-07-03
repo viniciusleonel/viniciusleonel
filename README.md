@@ -16,9 +16,11 @@ Web development & Programming Skills:
 </p> -->
 
 <!-- LinkedIn: https://www.linkedin.com/in/viniciuslps/ -->
- 
+
+ <p align="center">
+  Contact Details: +55 11 99331-0776 
+</p> 
 <p align="center">
-  Contact Details: +55 11 99331-0776
   <a href="https://www.linkedin.com/in/viniciuslps/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-VINICIUSLPS%20-00BFFF?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuslps/"/></a>  
   <a href="mailto:viniciuslps.cms@gmail.com" target="blank">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/-viniciuslps.cms@gmail.com-DC143C?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuslps.cms@gmail.com"/>
