@@ -2,7 +2,11 @@
 
 ## My name is Vinícius Leonel, and I am a Fullstack Developer.. 
 
-Currently pursuing a career in web development, specializing in scalable and high-performance systems using modern technologies. Proficient in designing and implementing microservices architectures, integrating databases, and creating secure, responsive applications. Based in São Paulo, I aim to apply my skills to develop efficient and innovative digital solutions.  
+Full-stack developer with a strong focus on backend development using Java and Spring, and extensive experience in building robust REST APIs. A recent graduate in Systems Analysis and Development from FIAP, I have consistently expanded my knowledge through continuous learning on various online platforms.
+
+Proficient in designing and implementing microservices architectures, integrating databases, and developing secure, responsive, and scalable applications. I have a proven track record of contributing to the development and maintenance of products, prioritizing efficiency and an optimized user experience.
+
+Based in São Paulo, I am passionate about leveraging my skills to create innovative digital solutions. Fully bilingual in Portuguese and English, with strong communication and collaboration abilities in diverse environments.
 Bilingual (Portuguese and English).  
 
 ## Web Development & Programming Skills  
