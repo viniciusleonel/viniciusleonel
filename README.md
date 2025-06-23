@@ -22,7 +22,7 @@ Bilingual (Portuguese and English).
 - Payment integration: **Stripe**, **Mercado Pago**
 - Chatbots & messaging: **WhatsApp Cloud API (Meta)**
 
-- ### Authentication & Security  
+### Authentication & Security  
 - **Auth.js** for authentication flows  
 - Social login via **Google OAuth 2.0** and **GitHub OAuth**  
 - **JWT** (JSON Web Tokens) for secure session and token-based APIs  
