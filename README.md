@@ -2,7 +2,7 @@
 
 ## My name is Vinícius Leonel, and I am a Fullstack Developer.. 
 
-Full-stack developer with a strong focus on backend development using Java and Spring, and extensive experience in building robust REST APIs. A recent graduate in Systems Analysis and Development from FIAP, I have consistently expanded my knowledge through continuous learning on various online platforms.
+Full-stack developer with a strong focus on backend development using Java and Spring, and extensive experience in building robust REST APIs. A recent graduate in Systems Analysis and Development from FIAP, I continuously expand my skill set through hands-on projects and ongoing learning on modern development platforms.
 
 Experienced in building RESTful APIs using Java (Spring Boot), Kotlin, and Ruby, and developing fullstack monolithic systems using Next.js with TypeScript. Skilled at designing scalable solutions that integrate seamlessly with databases and external services, always prioritizing performance, code maintainability, and user experience.
 
