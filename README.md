@@ -4,7 +4,7 @@
 
 Full-stack developer with a strong focus on backend development using Java and Spring, and extensive experience in building robust REST APIs. A recent graduate in Systems Analysis and Development from FIAP, I have consistently expanded my knowledge through continuous learning on various online platforms.
 
-Proficient in designing and implementing microservices architectures, integrating databases, and developing secure, responsive, and scalable applications. I have a proven track record of contributing to the development and maintenance of products, prioritizing efficiency and an optimized user experience.
+Experienced in building RESTful APIs using Java (Spring Boot), Kotlin, and Ruby, and developing fullstack monolithic systems using Next.js with TypeScript. Skilled at designing scalable solutions that integrate seamlessly with databases and external services, always prioritizing performance, code maintainability, and user experience.
 
 Based in São Paulo, I am passionate about leveraging my skills to create innovative digital solutions. Fully bilingual in Portuguese and English, with strong communication and collaboration abilities in diverse environments.
 Bilingual (Portuguese and English).  
@@ -18,7 +18,15 @@ Bilingual (Portuguese and English).
 ### Backend  
 - Java, Spring Framework, Spring Security, Spring MVC, Spring Data
 - Kotlin, Ruby
-- RESTful API development  
+- RESTful API development
+- Payment integration: **Stripe**, **Mercado Pago**
+- Chatbots & messaging: **WhatsApp Cloud API (Meta)**
+
+- ### Authentication & Security  
+- **Auth.js** for authentication flows  
+- Social login via **Google OAuth 2.0** and **GitHub OAuth**  
+- **JWT** (JSON Web Tokens) for secure session and token-based APIs  
+- Session and cookie handling with secure practices
 
 ### Databases  
 - Relational: PostgreSQL, MySql, Oracle
@@ -32,7 +40,8 @@ Bilingual (Portuguese and English).
 
 ### Documentation & Testing  
 - Swagger for API documentation  
-- Cucumber and Gherkin for automated testing  
+- Cucumber and Gherkin for automated testing
+- Postman & Insomnia for API testing 
 
 <!-- <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=viniciusleonel&layout=compact&theme=radical"> 
