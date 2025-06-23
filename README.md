@@ -58,7 +58,7 @@ Bilingual (Portuguese and English).
     <img alt="WebSite Badge" src="https://img.shields.io/badge/website-071952?style=for-the-badge&logo=About&logoColor=white"/>
   </a>  -->
   <a href="mailto:viniciuslps.dev@gmail.com" target="blank">
-    <img alt="Gmail Badge" src="https://img.shields.io/badge/-viniciuslps.cms@gmail.com-DC143C?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:viniciuslps.cms@gmail.com"/>
+    <img alt="Gmail Badge" src="https://img.shields.io/badge/-viniciuslps.dev@gmail.com-DC143C?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:viniciuslps.dev@gmail.com"/>
   </a>
   
 </p>
