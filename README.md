@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Vinícius Leonel, and I am a Fullstack Developer.. 
+## My name is Vinícius Leonel, and I am a Fullstack Developer.
 
 Full-stack developer with a strong focus on backend development using Java and Spring, and extensive experience in building robust REST APIs. A recent graduate in Systems Analysis and Development from FIAP, I continuously expand my skill set through hands-on projects and ongoing learning on modern development platforms.
 
@@ -53,14 +53,13 @@ Bilingual (Portuguese and English).
   Contact Details: +55 11 99331-0776 
 </p> 
 <p align="center">
-   <a href="https://www.linkedin.com/in/viniciusleonel-dev/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-VINICIUSLPS%20-00BFFF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuslps/"/></a>  
-<!--   <a href="https://viniciusleonel.dev.br" target="blank">
+  <a href="https://vinicius-leonel-viniciusleonels-projects.vercel.app/pt" target="blank">
     <img alt="WebSite Badge" src="https://img.shields.io/badge/website-071952?style=for-the-badge&logo=About&logoColor=white"/>
-  </a>  -->
+  </a> 
+   <a href="https://www.linkedin.com/in/viniciusleonel-dev/" target="blank"><img alt="Linkedin Badge" src="https://img.shields.io/badge/-VINICIUSLPS%20-00BFFF?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/viniciuslps/"/></a>  
   <a href="mailto:viniciuslps.dev@gmail.com" target="blank">
     <img alt="Gmail Badge" src="https://img.shields.io/badge/-viniciuslps.dev@gmail.com-DC143C?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:viniciuslps.dev@gmail.com"/>
   </a>
-  
 </p>
 
 <!--<p align="center">
